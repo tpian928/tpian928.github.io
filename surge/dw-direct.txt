@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,mxpnl.com
