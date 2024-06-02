@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN,static.metafi.codefi.network
+DOMAIN-SUFFIX,bing.com
+DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN,api-iam.intercom.io
+DOMAIN-SUFFIX,statsigapi.net
