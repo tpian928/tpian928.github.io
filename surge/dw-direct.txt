@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mxpnl.com
 DOMAIN-SUFFIX,securepubads.g.doubleclick.net
+DOMAIN-SUFFIX,vip.zealotmat.net
