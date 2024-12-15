@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,identrust.com,gpt
 DOMAIN-SUFFIX,launchdarkly.com,gpt
 DOMAIN-SUFFIX,segment.io,gpt
 DOMAIN-SUFFIX,intercom.io,gpt
-DOMAIN-SUFFIX,googleapis.com,gpt
 DOMAIN-SUFFIX,intercomcdn.com,gpt
 DOMAIN-SUFFIX,poe.com,gpt
 DOMAIN-SUFFIX,sentry.io,gpt
