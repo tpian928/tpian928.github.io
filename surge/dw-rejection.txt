@@ -1,2 +1,5 @@
 DOMAIN,charmshoist.com
 DOMAIN,vip2.loli.io
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe-opt-in.com
