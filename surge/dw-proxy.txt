@@ -1,3 +1,7 @@
+# X / Twitter
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+
 # dw-proxy.list
 # TikTok Related Domains
 
