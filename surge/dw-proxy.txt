@@ -1,0 +1,19 @@
+# dw-proxy.list
+# TikTok Related Domains
+
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,bytefcdn-oversea.com
+DOMAIN-SUFFIX,lf16-tiktok-web.tiktokcdn-us.com
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,ttbyte
+DOMAIN-KEYWORD,bytedance
+
