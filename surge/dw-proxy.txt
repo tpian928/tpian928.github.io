@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,uutesth.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
 
 # X / Twitter
 DOMAIN-SUFFIX,x.com
